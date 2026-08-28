@@ -1,0 +1,18 @@
+[book]
+authors = ["A Rustacean"]
+language = "en"
+src = "src"
+title = "Building a Minecraft Server in Rust: From Raw Bytes to Login Screen"
+
+[output.html]
+smart-punctuation = true
+mathjax-support = true
+default-theme = "rust"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com"
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
