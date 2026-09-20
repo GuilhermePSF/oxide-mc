@@ -1,6 +1,6 @@
-# Mine (oxide-mc)
+# Oxide-mc
 
-> A lightweight, zero-dependency Minecraft 1.12.2 (Protocol #340) server built from scratch in Rust using only `std::net` raw TCP sockets and standard library primitives. Features a custom binary wire codec, connection state machine, and multi-client threading with thr purpose of learning rust, TCP and server design.
+> A lightweight, zero-dependency Minecraft 1.12.2 (Protocol #340) server built from scratch in Rust using only `std::net` raw TCP sockets and standard library primitives. Features a custom binary wire codec, connection state machine, and multi-client threading. Made with the purpose of learning rust, TCP and server design.
 
 ![Language](https://img.shields.io/badge/language-Rust-orange)
 
